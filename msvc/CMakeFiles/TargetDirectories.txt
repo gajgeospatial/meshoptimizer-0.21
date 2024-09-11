@@ -1,0 +1,5 @@
+N:/Development/Dev_Base/meshoptimizer-0.21/msvc/CMakeFiles/meshoptimizer.dir
+N:/Development/Dev_Base/meshoptimizer-0.21/msvc/CMakeFiles/gltfpack.dir
+N:/Development/Dev_Base/meshoptimizer-0.21/msvc/CMakeFiles/INSTALL.dir
+N:/Development/Dev_Base/meshoptimizer-0.21/msvc/CMakeFiles/ALL_BUILD.dir
+N:/Development/Dev_Base/meshoptimizer-0.21/msvc/CMakeFiles/ZERO_CHECK.dir
